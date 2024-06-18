@@ -1,0 +1,47 @@
+Lehrplann
+
+walaa Alali -->   Adminstrator
+Mahmoud + Ola -->  lehrer
+
+
+phase O1 2 Wochen
+Elnführung
+
+phase 02 3 wochen
+Python-Programmlerung
+
+
+phase 03 3 wochen
+
+• Vorbereltung Data Transformation
+• Data Processing für ML
+• Automatislerung von Datetransformation
+
+
+phase O4 3 Wochen
+
+pandas, Spark, Dask, SQL, Spark SQL,und ScrappingHub
+• Arbeiten mit großen Datensätzen in SQL-und NoSQL-Datenbanken
+
+phase 05 2 Wochen
+• Feature-Engineering, Modellauswahl und Optimierung
+• ML-Bereitstellung
+
+
+phase O6 4 Wochen
+Deep-Learning-Netzwerke auf Daten anwenden
+Verarbeitung natürlicher Sprache
+Bildverarbeitung und Computer Vision
+
+
+phase 07 3 Wochen
+Erstellung von Recommender systemen.
+APls erstellen und bereitstellen z.B. wie Swagger, Postman, FastAPl und Paperspace.
+
+phase 08 4 Wochen
+Projektarbeit
+
+phase 09 1 Woche
+Vorbereitung auf den Arbeitsmarkt,Vorstellungsgesprâch-Training
+
+Summe 25 Wochen
