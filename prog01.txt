@@ -1,3 +1,6 @@
 Mystro
 
 AI- new
+
+git config --global user.name ""abattiasia"
+git config --global user.email abattia@gmx.com
